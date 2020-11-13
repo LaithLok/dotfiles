@@ -41,3 +41,7 @@ pyenv activate lewagon 2>/dev/null && echo "🐍 Loading 'lewagon' virtualenv"
 export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+<<<<<<< HEAD
+=======
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+>>>>>>> 69c796e0988a7f9e0c4d11cf54642a7cf58d32b5
